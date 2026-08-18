@@ -1,0 +1,16 @@
+accelerate
+bitsandbytes
+jupyter
+matplotlib
+nltk
+numpy
+openai
+openpyxl
+pandas
+python-dotenv
+scikit-learn
+sentence-transformers
+torch
+tqdm
+transformers
+xgboost
