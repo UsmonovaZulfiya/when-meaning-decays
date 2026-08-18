@@ -1,0 +1,5 @@
+Category,Correct_Until_Gen_2,Correct_Until_Gen_3,Correct_Until_Gen_4,Correct_Until_Gen_5,Correct_Until_Gen_6,Correct_Until_Gen_7,Correct_Until_Gen_8,Correct_Until_Gen_9,Correct_Until_Gen_10,Correct_Until_Gen_11
+High-Freq-Abstract,29,60,80,107,118,135,145,159,165,177
+High-Freq-Concrete,37,74,107,143,172,203,226,250,272,295
+Low-Freq-Abstract,21,29,36,37,39,40,41,42,43,44
+Low-Freq-Concrete,35,58,78,98,110,126,133,148,153,168

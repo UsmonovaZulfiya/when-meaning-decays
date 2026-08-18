@@ -1,0 +1,33 @@
+idx,Category,Gen_1,Gen_2,Gen_3,Gen_4,Gen_5,Gen_6,Gen_7,Gen_8,Gen_9,Gen_10,Gen_11,Correct_Until_Gen_2,Correct_Until_Gen_3,Correct_Until_Gen_4,Correct_Until_Gen_5,Correct_Until_Gen_6,Correct_Until_Gen_7,Correct_Until_Gen_8,Correct_Until_Gen_9,Correct_Until_Gen_10,Correct_Until_Gen_11
+0,High-Freq-Abstract,Future,Future,,Future,,Future,,Hope,,Hope,,1,1,2,2,3,3,3,3,3,3
+1,Low-Freq-Concrete,Glacier,Glacier,,Iceberg,,Iceberg,,Iceberg,,Glaicer,,1,1,1,1,1,1,1,1,1,1
+2,Low-Freq-Abstract,Animosity,Rage,,Rage,,Rage,,Fight,,Fight,,0,0,0,0,0,0,0,0,0,0
+3,High-Freq-Abstract,Condition,Measurement,,Measuring,,Measure,,Data base,,Data,,0,0,0,0,0,0,0,0,0,0
+4,High-Freq-Abstract,Market,Market,,Market,,Market,,Flea market,,Fleamarket,,1,1,2,2,3,3,3,3,3,3
+5,High-Freq-Concrete,Oil,Oil,,Oil,,Oil,,Paint,,Paint,,1,1,2,2,3,3,3,3,3,3
+6,Low-Freq-Abstract,Enigma,Complex,,Confusing,,Confusing,,Confusion,,Confession,,0,0,0,0,0,0,0,0,0,0
+7,Low-Freq-Abstract,Gluttony,Gluttony,,Gluttony,,Greed,,Want,,Desire,,1,1,2,2,2,2,2,2,2,2
+8,High-Freq-Concrete,Horse,Horse,,Horse,,Horse,,Horse,,Horse,,1,1,2,2,3,3,4,4,5,5
+9,Low-Freq-Concrete,Beaker,Vial,,Beaker,,Beaker,,Flask,,Mug,,0,0,1,1,2,2,2,2,2,2
+10,High-Freq-Abstract,Information,Evidence,,Evidence,,Evidence,,Data bank,,File,,0,0,0,0,0,0,0,0,0,0
+11,High-Freq-Concrete,Child,Adolescent,,Adolescent,,Adolescent,,Adulthood,,Twenty,,0,0,0,0,0,0,0,0,0,0
+12,Low-Freq-Abstract,Deference,Honor,,Throne,,Throne,,Crown,,Crown,,0,0,0,0,0,0,0,0,0,0
+13,Low-Freq-Concrete,Cymbal,Cymbal,,Cymbal,,Cymbal,,Drum,,Drum,,1,1,2,2,3,3,3,3,3,3
+14,Low-Freq-Concrete,Buckle,Buckle,,Buckle,,Buckle,,Torque,,Pliers,,1,1,2,2,3,3,3,3,3,3
+15,High-Freq-Concrete,Rain,Rain,,Rain,,Rain,,Rain,,Rain,,1,1,2,2,3,3,4,4,5,5
+16,High-Freq-Abstract,Hate,,Hate,,Hate,,Hatred,,Hatred,,Hatred,0,1,1,2,2,2,2,2,2,2
+17,High-Freq-Concrete,Bird,,Bird,,Bird,,Birds,,Birds,,Birds,0,1,1,2,2,3,3,4,4,5
+18,Low-Freq-Concrete,Ermine,,Skunk,,Skunk,,Skunk,,Skunk,,Skunk,0,0,0,0,0,0,0,0,0,0
+19,Low-Freq-Abstract,Avarice,,Greed,,Greed,,Greed,,Cheap,,Cheap,0,0,0,0,0,0,0,0,0,0
+20,Low-Freq-Abstract,Depravity,,Lack,,Lack,,Desire,,Desire,,Desperate,0,0,0,0,0,0,0,0,0,0
+21,Low-Freq-Concrete,Cactus,,Cactus,,Cactus,,Cactus,,Cactus,,Cactus,0,1,1,2,2,3,3,4,4,5
+22,High-Freq-Concrete,Glass,,Glass,,Glass,,Glass,,Glass,,Glass,0,1,1,2,2,3,3,4,4,5
+23,High-Freq-Concrete,Map,,Map,,Map,,Map,,Map,,Map,0,1,1,2,2,3,3,4,4,5
+24,Low-Freq-Concrete,Bouquet,,Bouquet,,Bouquet,,Bouquet,,Bouquet,,Bouquet,0,1,1,2,2,3,3,4,4,5
+25,Low-Freq-Abstract,Adulation,,Loyal,,Reliable,,Reliable,,Loyal,,Mum,0,0,0,0,0,0,0,0,0,0
+26,High-Freq-Abstract,Knowledge,,Intelligence,,Intelligence,,Intelligence,,Smart,,Scholar,0,0,0,0,0,0,0,0,0,0
+27,High-Freq-Abstract,Age,,Age,,Age,,Age,,Age,,Iq,0,1,1,2,2,3,3,4,4,4
+28,High-Freq-Abstract,Credit,,Credit,,Credit,,Credit,,Karma,,Karma,0,1,1,2,2,3,3,3,3,3
+29,Low-Freq-Abstract,Fame,,Fame,,Fame,,Celebrity,,Davina,,Lady,0,1,1,2,2,2,2,2,2,2
+30,Low-Freq-Concrete,Barnacle,,Bottomfeeder,,Bottom-feeder,,Scum,,Ring,,Ring,0,0,0,0,0,0,0,0,0,0
+31,High-Freq-Concrete,Pen,,Pen,,Pen,,Pen,,Pen,,Pencil,0,1,1,2,2,3,3,4,4,4
