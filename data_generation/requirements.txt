@@ -1,0 +1,6 @@
+pandas
+torch
+tqdm
+transformers
+accelerate
+bitsandbytes
